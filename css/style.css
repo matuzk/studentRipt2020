@@ -1,0 +1,28 @@
+body{
+	background-color:yellow;
+	background-image:url(../images/fon.jpg);
+	background-repeat:repeat;
+	background-attachment:scroll;
+	background-position:300px 100px;
+}
+h1{
+	Background-color:magenta;
+}
+p{
+	background-color:cyan;
+}
+h1 {
+	color: green;
+}
+p{
+	color:pink;
+}
+h2{
+	color: orange;
+}
+h3{
+	color:blue;
+}
+h4{
+	color: purple;
+}
